@@ -10,7 +10,7 @@ Welcome to the Airplane Ticket Booking and Management System project! This web a
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -95,12 +95,4 @@ Contributions to this project are welcome! To contribute:
 4. Push to the branch (`git push origin feature/my-feature`).
 5. Create a new pull request.
 
-Please ensure your contributions adhere to the [code of conduct](CODE_OF_CONDUCT.md).
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to reach out if you have any questions or need further assistance [Piyush Linkedin](https://www.linkedin.com/in/piyushpardeshi/). Happy coding!
